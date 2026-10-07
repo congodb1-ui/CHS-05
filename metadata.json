@@ -1,0 +1,6 @@
+{
+  "name": "Solitaire CHS Portal",
+  "description": "Official community portal for Solitaire Cooperative Housing Society (Towers A, B & C) featuring utility monitoring, amenity bookings, tenant onboarding, and maintenance helpdesk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
